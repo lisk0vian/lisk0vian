@@ -33,8 +33,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,vite,tailwind,astro,mysql,redis,py,fastapi,docker,githubactions&theme=dark&perline=13">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,vite,tailwind,astro,mysql,redis,py,fastapi,docker,githubactions&theme=light&perline=13" alt="TypeScript, Node.js, NestJS, React, Vite, Tailwind CSS, Astro, MySQL, Redis, Python, FastAPI, Docker, GitHub Actions">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Creact%2Cvite%2Ctailwind%2Castro%2Cmysql%2Credis%2Cpy%2Cfastapi%2Cdocker%2Cgithubactions&theme=dark&perline=13">
+    <img src="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Creact%2Cvite%2Ctailwind%2Castro%2Cmysql%2Credis%2Cpy%2Cfastapi%2Cdocker%2Cgithubactions&theme=light&perline=13" alt="TypeScript, Node.js, NestJS, React, Vite, Tailwind CSS, Astro, MySQL, Redis, Python, FastAPI, Docker, GitHub Actions">
   </picture>
 </p>
 
